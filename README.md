@@ -1,7 +1,7 @@
 ## File Discriptions
 
 ### Code
-**Numerical Simulation**: The main simulation is executed by the code `Numerical_Simulation`.
+**Numerical Simulation**: The main simulation is executed by the code `Numerical_Simulations`.
 * **Data Writing**: The `Data Writing` script post-processes the training logs and organizes them into a clean CSV format.
 * **Data Plotting**: Scripts named `Data Plotting *` (or similar) read the CSV files to visualize and generate the figures presented in the paper.
 
